@@ -9,12 +9,14 @@ downloaded the CheatX application can view the plagiarism results by percentage 
 uniqueness by percentage as well. The CheatX application can also display the plagiarized
 text which either a paraphrased text or a text that is similar and detected.
 
+
 Features:
 Compare multiple files together
 Detect the exact sentences that are copied from other documents 
 Detect text that is paraphrased from other documents
 Display the percentage of the plagiarism
 Display the sentences/paragraphs that have plagiarism
+
 
 how it works:
 The algorithm used is the universal sentence encoder which is for embedding sentences. It
